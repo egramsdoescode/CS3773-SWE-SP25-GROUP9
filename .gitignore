@@ -1,0 +1,40 @@
+# 🔹 Frontend (React + Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env.local
+frontend/.DS_Store
+
+# 🔹 Backend (Go)
+backend/bin/
+backend/pkg/
+backend/.env
+backend/*.exe
+backend/*.out
+backend/*.log
+backend/.DS_Store
+
+# 🔹 General Ignore (OS, IDE, Editor)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+# 🔹 Go Build Cache (Optional)
+backend/go.sum
+backend/go.work
+
+# 🔹 Docker (If Using)
+backend/.dockerignore
+docker-compose.override.yml
+backend/docker/
+backend/Dockerfile
+
+# 🔹 MySQL Data (If Using Docker for MySQL)
+mysql_data/
+
