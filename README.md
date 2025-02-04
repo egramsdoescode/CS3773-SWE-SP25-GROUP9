@@ -1,6 +1,15 @@
-# Elite's (Group 9) Ecommerce Site 
+# Elite's Ecommerce Site (Group 9)
 
-This is a full-stack ecommerce site using **React** for the frontend and **Go** for the backend.
+
+This is a full-stack ecommerce site using **React** for the frontend and **Go** for the backend. The goal of this project is to gain a better understanding of scrum and the agile development process.
+
+Members:
+  - Baca, Joseph J.
+  - Dominguez, Carlos
+  - Grams, Ethan T.
+  - Mejia, Pilar
+  - Perez, Matthew
+  - Warner, Ishi Mae D.
 
 ## 🚀 Getting Started
 
@@ -39,4 +48,4 @@ npm install
 npm run dev
 ```
 
-To view the frontend, simply go to the [link](http://localhost:7173) after launching the frontend
+To view the frontend, simply go to the [link](http://localhost:5173) after launching the frontend
